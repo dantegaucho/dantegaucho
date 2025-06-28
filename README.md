@@ -10,11 +10,14 @@ I'm a fresh graduate Data Scientist, passionate about using data to drive insigh
 - 🔭 **Looking Forward:** I'm excited to embrace new challenges and opportunities!
 
 ---
+## Fun Fact
 🐍 The first code I wrote was "Hello World" using Python.
 
 📷 When I'm not crunching numbers, you can find me capturing moments through photography.
 
 🌳 I enjoy a refreshing nature walk.
+
+🚗 I'm a car connoisseur.
 
 ✈️ Travelling to new places
 
